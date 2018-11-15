@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/DXRibbonWindow_Ex/MainWindow.xaml)**
+<!-- default file list end -->
 # How to: Integrate RibbonControl with the Window
 
 
